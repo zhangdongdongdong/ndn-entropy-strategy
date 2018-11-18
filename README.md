@@ -37,6 +37,7 @@ Directory structure description:
 
 
 目录结构说明：
+
 （1）experimentResult文件夹：是用来存储产生的结果数据，如果原来安装的ndnSIM目录下没有该文件夹，需要重新创建
 
 （2）topologies文件夹：里面是实验要用到的网络拓扑图
