@@ -11,6 +11,7 @@ Forwarding strategy based on entropy weighting method  in NDN
 
 
 Directory structure description:
+
 （1）The experimentResult folder is used to store the resulting data. If the original ndnSIM directory does not have the folder, it needs to be recreated.
 
 （2）Topologies folder: inside is the network topology diagram used in the experiment
