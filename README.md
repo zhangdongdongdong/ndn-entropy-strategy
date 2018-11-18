@@ -2,15 +2,23 @@
 Forwarding strategy based on entropy weighting method  in NDN
 
 1、The experiment is based on ndnSIM 1.0, if you want to run the experiment, please install ndnSIM 1.0 first.
+
 2、Copy the given code to the directory where ndnSIM is already installed.
+
 3、Change all referenced paths in the code "/home/duoduo" to the user's own home directory.
+
 4、Run the myrunzoomroute.py file to run the experiment
+
 
 Directory structure description:
 （1）The experimentResult folder is used to store the resulting data. If the original ndnSIM directory does not have the folder, it needs to be recreated.
+
 （2）Topologies folder: inside is the network topology diagram used in the experiment
+
 （3）Ns-3 folder: If ndnSIM is installed, this ns-3 folder is already there. We only need to copy the files in the ns-3 folder. Note that some of the folders under the ns-3 folder may already exist. At this time, you only need to copy the files in the folder.
+
 （4）The ns-3/src/ndnSIM/model/fw folder corresponds to our forwarding strategy based on entropy weighting.
+
 
 
 1、该实验是基于ndnSIM 1.0，如果要运行实验请先安装ndnSIM 1.0
