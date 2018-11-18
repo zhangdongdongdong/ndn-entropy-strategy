@@ -5,11 +5,17 @@
 Citation
 
 @InProceedings{lu2016visual,
+
    title = {An Entropy-based Probabilistic Forwarding Strategy in Named Data Networking},
+   
    author = {Kai Lei, Jiawei Wang, Jie Yuan},
+   
    booktitle = {International Conference on Communications},
+   
    year = {2015},
+   
  }
+
 
 
 
