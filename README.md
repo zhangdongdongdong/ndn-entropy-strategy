@@ -4,7 +4,7 @@
 
 Citation
 
-@InProceedings{lu2016visual,
+@InProceedings{
 
    title = {An Entropy-based Probabilistic Forwarding Strategy in Named Data Networking},
    
