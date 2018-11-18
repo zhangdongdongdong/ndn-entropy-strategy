@@ -23,7 +23,8 @@ Directory structure description:
 （4）The ns-3/src/ndnSIM/model/fw folder corresponds to our forwarding strategy based on entropy weighting.
 
 
-
+======================
+基于熵权法的ndn转发策略实现
 
 1、该实验是基于ndnSIM 1.0，如果要运行实验请先安装ndnSIM 1.0
 
