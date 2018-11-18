@@ -1,4 +1,20 @@
 # ndn-entropy-strategy
+
+
+
+Citation
+
+@InProceedings{lu2016visual,
+   title = {An Entropy-based Probabilistic Forwarding Strategy in Named Data Networking},
+   author = {Kai Lei, Jiawei Wang, Jie Yuan},
+   booktitle = {International Conference on Communications},
+   year = {2015},
+ }
+
+
+
+
+
 Forwarding strategy based on entropy weighting method  in NDN
 
 1、The experiment is based on ndnSIM 1.0, if you want to run the experiment, please install ndnSIM 1.0 first.
